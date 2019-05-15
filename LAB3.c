@@ -1,9 +1,9 @@
 /*******************************
  * Name: Eddie Molina
  * Student ID#: 1001088363
- * Lab Day:
+ * Lab Day: 10/11/17
  * CSE 3442/5442 - Embedded Systems 1
- * Lab 3: 
+ * Lab 3: Simple Input/Output Circuit
  ********************************/
 
 #include <pic18f452.h> //For the XC8 Compiler
