@@ -1,7 +1,7 @@
 /*******************************
  * Name: Eddie Molina
  * Student ID#: 1001088363
- * Lab Day: Wednesday
+ * Lab Day: 11/29/17
  * CSE 3442/5442 - Embedded Systems 1
  * Lab 7 (ABET): Building a PIC18F4520 Standalone Alarm System with EUSART Communication 
  ********************************/
