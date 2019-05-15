@@ -2,7 +2,7 @@
  * Name: Eddie Molina
  * Student ID#: 1001088363
  * Lab Day: Wednesday, November 15, 2017
- * CSE 3442/5442 - Embedded Systems 1
+ * CSE 3442/5442 - Embedded Systems 1 
  * Lab 6: Timers and Interrupts
  ********************************/
 
